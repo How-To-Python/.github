@@ -7,13 +7,13 @@
 ### Data Structures
 **Each data structure has its strengths and is optimized for different use cases.**
 #### Core Python Data Structures
-- [Lists](): Ordered, Mutable Collections
+- [Lists](https://github.com/How-To-Python/PythonList): Ordered, Mutable Collections
     - Use case: Shopping carts, todo lists, any sequence that changes
     - Use when: you need an ordered, changeable collection
-- [Tuples](): Immutable Sequences
+- [Tuples](https://github.com/How-To-Python/PythonTuples): Immutable Sequences
     - Use case: Coordinates, database records, function return values
     - Use when: you need an ordered, unchangeable collection
-- [Dictionaries](): Key-Value Mappings
+- [Dictionaries](https://github.com/How-To-Python/PythonDictionaries): Key-Value Mappings
     - Use case: Configuration settings, lookup tables, JSON-like data
     - Use when: you need to map keys to values
 - [Sets](): Unordered Collections of Unique Elements
