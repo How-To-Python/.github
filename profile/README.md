@@ -4,8 +4,8 @@
 ### Learning Guides
 - [Python For Beginners](https://github.com/How-To-Python/PythonForBeginners)
 - [Intermediate Python](https://github.com/How-To-Python/PythonIntermediate/tree/main)
-- [Data Structures](https://github.com/How-To-Python/Data-Structures/blob/main/README.md)
-
+- [Python Modules]()
+- [Data Structures](https://github.com/How-To-Python/PythonIntermediate/blob/main/PythonDataStructures.md)
 <!-- ### 🌟 Learning Guides Features
 
 #### 🎯 Comprehensive
