@@ -1,9 +1,6 @@
 ## Python Learning Guides
 **Each learning guide is a complete learning experience for Python. Each concept has a interactive command-line guide and Jupyter Notebooks guide with hands-on examples. Each notebook is self-contained with clear learning objectives and practical examples that you can run and modify.**
 
-### Learning Guides
-- [Data Structures](https://github.com/How-To-Python/Data-Structures/blob/main/README.md)
-
 ### 🌟 Learning Guides Features
 
 #### 🎯 Comprehensive
@@ -42,4 +39,5 @@
 ------
 
 
-### Data Structures
+### Learning Guides
+- [Data Structures](https://github.com/How-To-Python/Data-Structures/blob/main/README.md)
