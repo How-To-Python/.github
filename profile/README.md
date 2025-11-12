@@ -2,8 +2,8 @@
 <!--**Each learning guide is a complete learning experience for Python. Each concept has a interactive command-line guide and Jupyter Notebooks guide with hands-on examples. Each notebook is self-contained with clear learning objectives and practical examples that you can run and modify.**-->
 
 ### Learning Guides
-- [Python For Beginners](https://github.com/How-To-Python/PythonForBeginners)
-- [Intermediate Python](https://github.com/How-To-Python/PythonIntermediate/tree/main)
+- [Python For Beginners](https://github.com/How-To-Python/Python?tab=readme-ov-file#python-for-beginners)
+- [Intermediate Python](https://github.com/How-To-Python/Python?tab=readme-ov-file#intermediate-python)
 <!--- [Python Modules]()
 - [Data Structures](https://github.com/How-To-Python/PythonIntermediate/blob/main/PythonDataStructures.md)
  ### 🌟 Learning Guides Features
