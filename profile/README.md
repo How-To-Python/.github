@@ -11,6 +11,9 @@
 ### Guides
 - [Python For Beginners](https://github.com/How-To-Python/Python?tab=readme-ov-file#python-for-beginners)
 - [Intermediate Python](https://github.com/How-To-Python/Python?tab=readme-ov-file#intermediate-python)
+- [Python Tools](https://github.com/How-To-Python/PythonTools)
+  - UV
+  - AI and Machine Learning
 <!--- [Python Modules]()
 - [Data Structures](https://github.com/How-To-Python/PythonIntermediate/blob/main/PythonDataStructures.md)
  ### 🌟 Learning Guides Features
