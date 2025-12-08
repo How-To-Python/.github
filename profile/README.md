@@ -8,12 +8,27 @@
 - **Jupyter Notebook** (optional, for notebook experience)
 
 
-### Guides
+
 - [Python For Beginners](https://github.com/How-To-Python/Python?tab=readme-ov-file#python-for-beginners)
 - [Intermediate Python](https://github.com/How-To-Python/Python?tab=readme-ov-file#intermediate-python)
 - [Python Tools](https://github.com/How-To-Python/PythonTools)
   - UV
   - AI and Machine Learning
+ 
+### Python Modules
+**Python has an extensive list of libraries and modules and they are why Python is so powerful**
+- [Request](https://github.com/How-To-Python/PythonModules/blob/main/Notebooks/request_package.ipynb)
+- [Flask]
+- [Pydantic]
+- [FastAPI]
+- [Django]
+- [LangChain]
+- [Selenium]
+- [Numpy](https://github.com/How-To-Python/Python-Numpy)
+- [Pandas](https://github.com/How-To-Python/PythonPandas)
+- [Matplotlib]
+- [TensorFlow]
+
 <!--- [Python Modules]()
 - [Data Structures](https://github.com/How-To-Python/PythonIntermediate/blob/main/PythonDataStructures.md)
  ### 🌟 Learning Guides Features
