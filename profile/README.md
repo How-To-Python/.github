@@ -1,19 +1,7 @@
-## Python Guides
-<!--**Each learning guide is a complete learning experience for Python. Each concept has a interactive command-line guide and Jupyter Notebooks guide with hands-on examples. Each notebook is self-contained with clear learning objectives and practical examples that you can run and modify.**-->
+## Python 
 
-## 🔧 Guide Prerequisites
+##### [Core Python Fundatmentals](https://github.com/How-To-Python/PythonFundamentals)
 
-- **Python 3.6+** installed on your system
-- **Basic Python knowledge** (variables, functions, basic syntax)
-- **Jupyter Notebook** (optional, for notebook experience)
-
-
-
-- [Python For Beginners](https://github.com/How-To-Python/Python?tab=readme-ov-file#python-for-beginners)
-- [Intermediate Python](https://github.com/How-To-Python/Python?tab=readme-ov-file#intermediate-python)
-- [Python Tools](https://github.com/How-To-Python/PythonTools)
-  - UV
-  - AI and Machine Learning
  
 ### Python Modules
 **Python has an extensive list of libraries and modules and they are why Python is so powerful**
@@ -28,45 +16,6 @@
 - [Pandas](https://github.com/How-To-Python/PythonPandas)
 - [Matplotlib]
 - [TensorFlow]
-
-<!--- [Python Modules]()
-- [Data Structures](https://github.com/How-To-Python/PythonIntermediate/blob/main/PythonDataStructures.md)
- ### 🌟 Learning Guides Features
-
-#### 🎯 Comprehensive
-- Covers everything from basics to advanced topics
-- Progressive difficulty with clear explanations
-- Real-world examples and applications
-
-#### 🔧 Hands-On Learning
-- Interactive examples you can run immediately
-- Practice exercises to test understanding
-- Multiple learning formats to suit your style
-
-#### 🚀 Practical Focus
-- Techniques used in real development
-- Performance considerations and best practices
-- Error handling and debugging strategies
-
-#### 📱 Responsive Design
-- Works in command line and Jupyter
-- Clear navigation and formatting
-- Pause-and-resume functionality
-
-### 🎮 Interactive Features
-
-#### Command-Line Guide Features
-- **Menu System** - Navigate to any section instantly
-- **Progress Tracking** - Pause and resume learning
-- **Error Handling** - Safe learning environment
-- **Output Formatting** - Clear, readable results
-
-#### Jupyter Notebook Features
-- **Cell-by-cell Execution** - Run code step by step
-- **Editable Examples** - Modify and experiment
-- **Rich Documentation** - Markdown explanations
-- **Persistent Results** - Save your work-->
-------
 
 
 
