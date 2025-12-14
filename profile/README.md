@@ -2,6 +2,7 @@
 
 ##### [Core Python Fundatmentals](https://github.com/How-To-Python/PythonFundamentals)
 
+##### [Python Tools](https://github.com/How-To-Python/PythonTools)
  
 ### Python Modules
 **Python has an extensive list of libraries and modules and they are why Python is so powerful**
