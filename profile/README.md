@@ -15,7 +15,7 @@
 - [Selenium]
 - [Numpy](https://github.com/How-To-Python/Python-Numpy)
 - [Pandas](https://github.com/How-To-Python/PythonPandas)
-- [Matplotlib]
+- [Matplotlib](https://github.com/How-To-Python/PythonMatplotlib)
 - [TensorFlow]
 
 
